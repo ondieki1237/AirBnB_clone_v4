@@ -154,7 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico) 
-Seth makori- [Github](https://github.com/ondieki1237)
+Seth Makori - [Github](https://github.com/ondieki1237)
 ## License
 iPublic Domain. No copy write protection. 
